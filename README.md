@@ -1,2 +1,2 @@
 ### Maybe John
-![image](./amazon.png)
+![image](./amazon.jpg)
